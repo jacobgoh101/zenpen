@@ -222,8 +222,8 @@ ZenPen.editor = (function() {
 
 	function saveState( event ) {
 		
-		localStorage[ 'header' ] = headerField.innerHTML;
-		localStorage[ 'content' ] = contentField.innerHTML;
+		// localStorage[ 'header' ] = headerField.innerHTML;
+		// localStorage[ 'content' ] = contentField.innerHTML;
 	}
 
 	function loadState() {
