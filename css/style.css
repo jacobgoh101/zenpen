@@ -54,6 +54,10 @@ section {
 	margin: auto;
 }
 
+section article > div {
+	margin-top: 25px;
+}
+
 header {
 	font-weight: bold;
 	font-size: 38px;
